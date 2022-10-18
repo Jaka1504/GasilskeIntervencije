@@ -2,7 +2,7 @@
 V tem repozitoriju je moja projektna naloga iz analize podatkov pri predmetu _Programiranje 1_ na _Fakulteti za matematiko in fiziko Univerze v Ljubljani_ v študijskem letu 2022/23
 
 # Načrt dela
-Analiziral bom dogodke iz let 2019, 2020 in 2021, pri katerih so posredovali gasilci. Podatke bom pridobil iz informacijskega sistema Uprave RS za zaščito in reševanje o nesrečah in intervencijah ***SPIN*** (https://spin3.sos112.si/javno/porocilo/dnevnibilten).
+Analiziral bom dogodke iz let 2019, 2020 in 2021, pri katerih so posredovali gasilci. Podatke bom pridobil iz informacijskega sistema Uprave RS za zaščito in reševanje o nesrečah in intervencijah **SPIN** (https://spin3.sos112.si/javno/porocilo/dnevnibilten).
 
 Za vsak dogodek bom zajel:
 - skupino in podskupino dogodka, skladno z razporeditvijo na spletni strani
