@@ -1,0 +1,850 @@
+[
+    {
+        "id": 11026516,
+        "ime obcine": "AJDOVŠČINA"
+    },
+    {
+        "id": 24063526,
+        "ime obcine": "ANKARAN"
+    },
+    {
+        "id": 21436437,
+        "ime obcine": "APAČE"
+    },
+    {
+        "id": 11026524,
+        "ime obcine": "BELTINCI"
+    },
+    {
+        "id": 21427624,
+        "ime obcine": "BENEDIKT"
+    },
+    {
+        "id": 21427632,
+        "ime obcine": "BISTRICA OB SOTLI"
+    },
+    {
+        "id": 11026532,
+        "ime obcine": "BLED"
+    },
+    {
+        "id": 21427659,
+        "ime obcine": "BLOKE"
+    },
+    {
+        "id": 11026559,
+        "ime obcine": "BOHINJ"
+    },
+    {
+        "id": 11026567,
+        "ime obcine": "BOROVNICA"
+    },
+    {
+        "id": 11026575,
+        "ime obcine": "BOVEC"
+    },
+    {
+        "id": 21427667,
+        "ime obcine": "BRASLOVČE"
+    },
+    {
+        "id": 11026583,
+        "ime obcine": "BRDA"
+    },
+    {
+        "id": 11026591,
+        "ime obcine": "BREZOVICA"
+    },
+    {
+        "id": 11026605,
+        "ime obcine": "BREŽICE"
+    },
+    {
+        "id": 21427675,
+        "ime obcine": "CANKOVA"
+    },
+    {
+        "id": 11026621,
+        "ime obcine": "CELJE"
+    },
+    {
+        "id": 11026630,
+        "ime obcine": "CERKLJE NA GORENJSKEM"
+    },
+    {
+        "id": 11026648,
+        "ime obcine": "CERKNICA"
+    },
+    {
+        "id": 11026656,
+        "ime obcine": "CERKNO"
+    },
+    {
+        "id": 21427683,
+        "ime obcine": "CERKVENJAK"
+    },
+    {
+        "id": 21436445,
+        "ime obcine": "CIRKULANE"
+    },
+    {
+        "id": 11026702,
+        "ime obcine": "DESTRNIK"
+    },
+    {
+        "id": 11026729,
+        "ime obcine": "DIVAČA"
+    },
+    {
+        "id": 21427691,
+        "ime obcine": "DOBJE"
+    },
+    {
+        "id": 11026737,
+        "ime obcine": "DOBREPOLJE"
+    },
+    {
+        "id": 21427705,
+        "ime obcine": "DOBRNA"
+    },
+    {
+        "id": 11026745,
+        "ime obcine": "DOBROVA-POLHOV GRADEC"
+    },
+    {
+        "id": 21427713,
+        "ime obcine": "DOBROVNIK"
+    },
+    {
+        "id": 11026753,
+        "ime obcine": "DOL PRI LJUBLJANI"
+    },
+    {
+        "id": 21427721,
+        "ime obcine": "DOLENJSKE TOPLICE"
+    },
+    {
+        "id": 11026761,
+        "ime obcine": "DOMŽALE"
+    },
+    {
+        "id": 11026770,
+        "ime obcine": "DORNAVA"
+    },
+    {
+        "id": 11026788,
+        "ime obcine": "DRAVOGRAD"
+    },
+    {
+        "id": 11026796,
+        "ime obcine": "DUPLEK"
+    },
+    {
+        "id": 11026800,
+        "ime obcine": "GORENJA VAS-POLJANE"
+    },
+    {
+        "id": 11026818,
+        "ime obcine": "GORIŠNICA"
+    },
+    {
+        "id": 24063461,
+        "ime obcine": "GORJE"
+    },
+    {
+        "id": 11026826,
+        "ime obcine": "GORNJA RADGONA"
+    },
+    {
+        "id": 11026834,
+        "ime obcine": "GORNJI GRAD"
+    },
+    {
+        "id": 11026842,
+        "ime obcine": "GORNJI PETROVCI"
+    },
+    {
+        "id": 21427730,
+        "ime obcine": "GRAD"
+    },
+    {
+        "id": 11026869,
+        "ime obcine": "GROSUPLJE"
+    },
+    {
+        "id": 21427748,
+        "ime obcine": "HAJDINA"
+    },
+    {
+        "id": 21427764,
+        "ime obcine": "HODOŠ"
+    },
+    {
+        "id": 21427772,
+        "ime obcine": "HORJUL"
+    },
+    {
+        "id": 21427756,
+        "ime obcine": "HOČE-SLIVNICA"
+    },
+    {
+        "id": 11026885,
+        "ime obcine": "HRASTNIK"
+    },
+    {
+        "id": 11027709,
+        "ime obcine": "HRPELJE-KOZINA"
+    },
+    {
+        "id": 11026893,
+        "ime obcine": "IDRIJA"
+    },
+    {
+        "id": 11026907,
+        "ime obcine": "IG"
+    },
+    {
+        "id": 11027717,
+        "ime obcine": "ILIRSKA BISTRICA"
+    },
+    {
+        "id": 11026915,
+        "ime obcine": "IVANČNA GORICA"
+    },
+    {
+        "id": 11026923,
+        "ime obcine": "IZOLA"
+    },
+    {
+        "id": 11027725,
+        "ime obcine": "JESENICE"
+    },
+    {
+        "id": 21427799,
+        "ime obcine": "JEZERSKO"
+    },
+    {
+        "id": 11026931,
+        "ime obcine": "JURŠINCI"
+    },
+    {
+        "id": 11027733,
+        "ime obcine": "KAMNIK"
+    },
+    {
+        "id": 11026940,
+        "ime obcine": "KANAL"
+    },
+    {
+        "id": 11027741,
+        "ime obcine": "KIDRIČEVO"
+    },
+    {
+        "id": 11026958,
+        "ime obcine": "KOBARID"
+    },
+    {
+        "id": 11027750,
+        "ime obcine": "KOBILJE"
+    },
+    {
+        "id": 11027768,
+        "ime obcine": "KOMEN"
+    },
+    {
+        "id": 21427802,
+        "ime obcine": "KOMENDA"
+    },
+    {
+        "id": 11027776,
+        "ime obcine": "KOPER"
+    },
+    {
+        "id": 21436453,
+        "ime obcine": "KOSTANJEVICA NA KRKI"
+    },
+    {
+        "id": 21427829,
+        "ime obcine": "KOSTEL"
+    },
+    {
+        "id": 11026974,
+        "ime obcine": "KOZJE"
+    },
+    {
+        "id": 11026966,
+        "ime obcine": "KOČEVJE"
+    },
+    {
+        "id": 11027784,
+        "ime obcine": "KRANJ"
+    },
+    {
+        "id": 11027792,
+        "ime obcine": "KRANJSKA GORA"
+    },
+    {
+        "id": 21427837,
+        "ime obcine": "KRIŽEVCI"
+    },
+    {
+        "id": 11026982,
+        "ime obcine": "KRŠKO"
+    },
+    {
+        "id": 11027008,
+        "ime obcine": "KUNGOTA"
+    },
+    {
+        "id": 11027806,
+        "ime obcine": "KUZMA"
+    },
+    {
+        "id": 11027814,
+        "ime obcine": "LAŠKO"
+    },
+    {
+        "id": 11027016,
+        "ime obcine": "LENART"
+    },
+    {
+        "id": 11027822,
+        "ime obcine": "LENDAVA"
+    },
+    {
+        "id": 11027024,
+        "ime obcine": "LITIJA"
+    },
+    {
+        "id": 11027849,
+        "ime obcine": "LJUBLJANA"
+    },
+    {
+        "id": 11027032,
+        "ime obcine": "LJUBNO"
+    },
+    {
+        "id": 11027857,
+        "ime obcine": "LJUTOMER"
+    },
+    {
+        "id": 24063470,
+        "ime obcine": "LOG-DRAGOMER"
+    },
+    {
+        "id": 11027059,
+        "ime obcine": "LOGATEC"
+    },
+    {
+        "id": 21427845,
+        "ime obcine": "LOVRENC NA POHORJU"
+    },
+    {
+        "id": 11027865,
+        "ime obcine": "LOŠKA DOLINA"
+    },
+    {
+        "id": 11027067,
+        "ime obcine": "LOŠKI POTOK"
+    },
+    {
+        "id": 11027873,
+        "ime obcine": "LUKOVICA"
+    },
+    {
+        "id": 11027075,
+        "ime obcine": "LUČE"
+    },
+    {
+        "id": 11027083,
+        "ime obcine": "MAJŠPERK"
+    },
+    {
+        "id": 21436461,
+        "ime obcine": "MAKOLE"
+    },
+    {
+        "id": 11027881,
+        "ime obcine": "MARIBOR"
+    },
+    {
+        "id": 21428019,
+        "ime obcine": "MARKOVCI"
+    },
+    {
+        "id": 11027890,
+        "ime obcine": "MEDVODE"
+    },
+    {
+        "id": 11027091,
+        "ime obcine": "MENGEŠ"
+    },
+    {
+        "id": 11027903,
+        "ime obcine": "METLIKA"
+    },
+    {
+        "id": 11027105,
+        "ime obcine": "MEŽICA"
+    },
+    {
+        "id": 21428027,
+        "ime obcine": "MIKLAVŽ NA DRAVSKEM POLJU"
+    },
+    {
+        "id": 11027911,
+        "ime obcine": "MIREN-KOSTANJEVICA"
+    },
+    {
+        "id": 24063518,
+        "ime obcine": "MIRNA"
+    },
+    {
+        "id": 21427853,
+        "ime obcine": "MIRNA PEČ"
+    },
+    {
+        "id": 11027113,
+        "ime obcine": "MISLINJA"
+    },
+    {
+        "id": 21436470,
+        "ime obcine": "MOKRONOG-TREBELNO"
+    },
+    {
+        "id": 11027130,
+        "ime obcine": "MORAVSKE TOPLICE"
+    },
+    {
+        "id": 11027121,
+        "ime obcine": "MORAVČE"
+    },
+    {
+        "id": 11027920,
+        "ime obcine": "MOZIRJE"
+    },
+    {
+        "id": 11027148,
+        "ime obcine": "MURSKA SOBOTA"
+    },
+    {
+        "id": 11027938,
+        "ime obcine": "MUTA"
+    },
+    {
+        "id": 11027946,
+        "ime obcine": "NAKLO"
+    },
+    {
+        "id": 11027954,
+        "ime obcine": "NAZARJE"
+    },
+    {
+        "id": 11027156,
+        "ime obcine": "NOVA GORICA"
+    },
+    {
+        "id": 11027962,
+        "ime obcine": "NOVO MESTO"
+    },
+    {
+        "id": 11027164,
+        "ime obcine": "ODRANCI"
+    },
+    {
+        "id": 21427861,
+        "ime obcine": "OPLOTNICA"
+    },
+    {
+        "id": 11027172,
+        "ime obcine": "ORMOŽ"
+    },
+    {
+        "id": 11027989,
+        "ime obcine": "OSILNICA"
+    },
+    {
+        "id": 11027199,
+        "ime obcine": "PESNICA"
+    },
+    {
+        "id": 11027997,
+        "ime obcine": "PIRAN"
+    },
+    {
+        "id": 11028004,
+        "ime obcine": "PIVKA"
+    },
+    {
+        "id": 21427870,
+        "ime obcine": "PODLEHNIK"
+    },
+    {
+        "id": 11028012,
+        "ime obcine": "PODVELKA"
+    },
+    {
+        "id": 11027202,
+        "ime obcine": "PODČETRTEK"
+    },
+    {
+        "id": 21436488,
+        "ime obcine": "POLJČANE"
+    },
+    {
+        "id": 21428035,
+        "ime obcine": "POLZELA"
+    },
+    {
+        "id": 11027229,
+        "ime obcine": "POSTOJNA"
+    },
+    {
+        "id": 21427888,
+        "ime obcine": "PREBOLD"
+    },
+    {
+        "id": 11027237,
+        "ime obcine": "PREDDVOR"
+    },
+    {
+        "id": 21428043,
+        "ime obcine": "PREVALJE"
+    },
+    {
+        "id": 11028039,
+        "ime obcine": "PTUJ"
+    },
+    {
+        "id": 11028047,
+        "ime obcine": "PUCONCI"
+    },
+    {
+        "id": 11027253,
+        "ime obcine": "RADENCI"
+    },
+    {
+        "id": 11028055,
+        "ime obcine": "RADEČE"
+    },
+    {
+        "id": 11027261,
+        "ime obcine": "RADLJE OB DRAVI"
+    },
+    {
+        "id": 11027270,
+        "ime obcine": "RADOVLJICA"
+    },
+    {
+        "id": 11027288,
+        "ime obcine": "RAVNE NA KOROŠKEM"
+    },
+    {
+        "id": 21427896,
+        "ime obcine": "RAZKRIŽJE"
+    },
+    {
+        "id": 11027245,
+        "ime obcine": "RAČE-FRAM"
+    },
+    {
+        "id": 24063453,
+        "ime obcine": "RENČE-VOGRSKO"
+    },
+    {
+        "id": 24063488,
+        "ime obcine": "REČICA OB SAVINJI"
+    },
+    {
+        "id": 11027296,
+        "ime obcine": "RIBNICA"
+    },
+    {
+        "id": 21428051,
+        "ime obcine": "RIBNICA NA POHORJU"
+    },
+    {
+        "id": 11027300,
+        "ime obcine": "ROGATEC"
+    },
+    {
+        "id": 11027326,
+        "ime obcine": "ROGAŠKA SLATINA"
+    },
+    {
+        "id": 11027318,
+        "ime obcine": "ROGAŠOVCI"
+    },
+    {
+        "id": 11027334,
+        "ime obcine": "RUŠE"
+    },
+    {
+        "id": 21427900,
+        "ime obcine": "SELNICA OB DRAVI"
+    },
+    {
+        "id": 11027342,
+        "ime obcine": "SEMIČ"
+    },
+    {
+        "id": 11027369,
+        "ime obcine": "SEVNICA"
+    },
+    {
+        "id": 11027377,
+        "ime obcine": "SEŽANA"
+    },
+    {
+        "id": 11027385,
+        "ime obcine": "SLOVENJ GRADEC"
+    },
+    {
+        "id": 11027393,
+        "ime obcine": "SLOVENSKA BISTRICA"
+    },
+    {
+        "id": 11027407,
+        "ime obcine": "SLOVENSKE KONJICE"
+    },
+    {
+        "id": 21428060,
+        "ime obcine": "SODRAŽICA"
+    },
+    {
+        "id": 21427918,
+        "ime obcine": "SOLČAVA"
+    },
+    {
+        "id": 21433632,
+        "ime obcine": "SREDIŠČE OB DRAVI"
+    },
+    {
+        "id": 11027415,
+        "ime obcine": "STARŠE"
+    },
+    {
+        "id": 21433659,
+        "ime obcine": "STRAŽA"
+    },
+    {
+        "id": 21433667,
+        "ime obcine": "SV. TROJICA V SLOV. GORICAH"
+    },
+    {
+        "id": 21428078,
+        "ime obcine": "SVETA ANA"
+    },
+    {
+        "id": 21428086,
+        "ime obcine": "SVETI ANDRAŽ V SLOV. GORICAH"
+    },
+    {
+        "id": 11027423,
+        "ime obcine": "SVETI JURIJ OB ŠČAVNICI"
+    },
+    {
+        "id": 24063496,
+        "ime obcine": "SVETI JURIJ V SLOV. GORICAH"
+    },
+    {
+        "id": 21433675,
+        "ime obcine": "SVETI TOMAŽ"
+    },
+    {
+        "id": 21427934,
+        "ime obcine": "TABOR"
+    },
+    {
+        "id": 11026613,
+        "ime obcine": "TIŠINA"
+    },
+    {
+        "id": 11027563,
+        "ime obcine": "TOLMIN"
+    },
+    {
+        "id": 11027571,
+        "ime obcine": "TRBOVLJE"
+    },
+    {
+        "id": 11027580,
+        "ime obcine": "TREBNJE"
+    },
+    {
+        "id": 21427942,
+        "ime obcine": "TRNOVSKA VAS"
+    },
+    {
+        "id": 21427969,
+        "ime obcine": "TRZIN"
+    },
+    {
+        "id": 11027598,
+        "ime obcine": "TRŽIČ"
+    },
+    {
+        "id": 11027601,
+        "ime obcine": "TURNIŠČE"
+    },
+    {
+        "id": 11027610,
+        "ime obcine": "VELENJE"
+    },
+    {
+        "id": 21428094,
+        "ime obcine": "VELIKA POLANA"
+    },
+    {
+        "id": 11027628,
+        "ime obcine": "VELIKE LAŠČE"
+    },
+    {
+        "id": 21427977,
+        "ime obcine": "VERŽEJ"
+    },
+    {
+        "id": 11028063,
+        "ime obcine": "VIDEM"
+    },
+    {
+        "id": 11027636,
+        "ime obcine": "VIPAVA"
+    },
+    {
+        "id": 11028071,
+        "ime obcine": "VITANJE"
+    },
+    {
+        "id": 11027644,
+        "ime obcine": "VODICE"
+    },
+    {
+        "id": 11028080,
+        "ime obcine": "VOJNIK"
+    },
+    {
+        "id": 21428108,
+        "ime obcine": "VRANSKO"
+    },
+    {
+        "id": 11027652,
+        "ime obcine": "VRHNIKA"
+    },
+    {
+        "id": 11028098,
+        "ime obcine": "VUZENICA"
+    },
+    {
+        "id": 11027679,
+        "ime obcine": "ZAGORJE OB SAVI"
+    },
+    {
+        "id": 11028101,
+        "ime obcine": "ZAVRČ"
+    },
+    {
+        "id": 11027687,
+        "ime obcine": "ZREČE"
+    },
+    {
+        "id": 11026664,
+        "ime obcine": "ČRENŠOVCI"
+    },
+    {
+        "id": 11026672,
+        "ime obcine": "ČRNA NA KOROŠKEM"
+    },
+    {
+        "id": 11026699,
+        "ime obcine": "ČRNOMELJ"
+    },
+    {
+        "id": 11026877,
+        "ime obcine": "ŠALOVCI"
+    },
+    {
+        "id": 21427926,
+        "ime obcine": "ŠEMPETER-VRTOJBA"
+    },
+    {
+        "id": 11027440,
+        "ime obcine": "ŠENTILJ"
+    },
+    {
+        "id": 11027458,
+        "ime obcine": "ŠENTJERNEJ"
+    },
+    {
+        "id": 11027466,
+        "ime obcine": "ŠENTJUR"
+    },
+    {
+        "id": 24063500,
+        "ime obcine": "ŠENTRUPERT"
+    },
+    {
+        "id": 11027431,
+        "ime obcine": "ŠENČUR"
+    },
+    {
+        "id": 11027474,
+        "ime obcine": "ŠKOCJAN"
+    },
+    {
+        "id": 11027482,
+        "ime obcine": "ŠKOFJA LOKA"
+    },
+    {
+        "id": 11027504,
+        "ime obcine": "ŠKOFLJICA"
+    },
+    {
+        "id": 11027512,
+        "ime obcine": "ŠMARJE PRI JELŠAH"
+    },
+    {
+        "id": 21433683,
+        "ime obcine": "ŠMARJEŠKE TOPLICE"
+    },
+    {
+        "id": 11027539,
+        "ime obcine": "ŠMARTNO OB PAKI"
+    },
+    {
+        "id": 21428264,
+        "ime obcine": "ŠMARTNO PRI LITIJI"
+    },
+    {
+        "id": 11027547,
+        "ime obcine": "ŠOŠTANJ"
+    },
+    {
+        "id": 11027555,
+        "ime obcine": "ŠTORE"
+    },
+    {
+        "id": 21428124,
+        "ime obcine": "ŽALEC"
+    },
+    {
+        "id": 11028128,
+        "ime obcine": "ŽELEZNIKI"
+    },
+    {
+        "id": 21427985,
+        "ime obcine": "ŽETALE"
+    },
+    {
+        "id": 11027695,
+        "ime obcine": "ŽIRI"
+    },
+    {
+        "id": 21428116,
+        "ime obcine": "ŽIROVNICA"
+    },
+    {
+        "id": 21427993,
+        "ime obcine": "ŽUŽEMBERK"
+    }
+]

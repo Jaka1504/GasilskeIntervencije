@@ -1,0 +1,330 @@
+[
+    {
+        "id": 10101,
+        "ime dogodka": "potresi"
+    },
+    {
+        "id": 10201,
+        "ime dogodka": "poplavljanje morja"
+    },
+    {
+        "id": 10301,
+        "ime dogodka": "poplave ob vodotokih"
+    },
+    {
+        "id": 10302,
+        "ime dogodka": "poplave ob stoječih vodah"
+    },
+    {
+        "id": 10303,
+        "ime dogodka": "poplave zaradi dviga podtalnice, kanalizacijskih vod"
+    },
+    {
+        "id": 10304,
+        "ime dogodka": "poplave meteorne vode"
+    },
+    {
+        "id": 10401,
+        "ime dogodka": "plazovi, udori, zdrsi, podori zemljin in kamnin"
+    },
+    {
+        "id": 10402,
+        "ime dogodka": "snežni plazovi (ne v zvezi z nesrečami v gorah)"
+    },
+    {
+        "id": 10501,
+        "ime dogodka": "snegolom"
+    },
+    {
+        "id": 10503,
+        "ime dogodka": "prekomerna obtežba strešnih konstrukcij zaradi teže snega"
+    },
+    {
+        "id": 10601,
+        "ime dogodka": "toča"
+    },
+    {
+        "id": 10801,
+        "ime dogodka": "vetrolom"
+    },
+    {
+        "id": 10901,
+        "ime dogodka": "udari strel (brez požara)"
+    },
+    {
+        "id": 11002,
+        "ime dogodka": "zaledenitve streh objektov, odtokov zaradi ledu"
+    },
+    {
+        "id": 11201,
+        "ime dogodka": "suša"
+    },
+    {
+        "id": 11501,
+        "ime dogodka": "prekinitev prometa"
+    },
+    {
+        "id": 11601,
+        "ime dogodka": "človeških bolezni"
+    },
+    {
+        "id": 11602,
+        "ime dogodka": "živalske bolezni"
+    },
+    {
+        "id": 11603,
+        "ime dogodka": "bolezni, ki se prenašajo iz živali na ljudi in obratno"
+    },
+    {
+        "id": 11604,
+        "ime dogodka": "rastlinske bolezni"
+    },
+    {
+        "id": 20101,
+        "ime dogodka": "nesreče v gorah"
+    },
+    {
+        "id": 20201,
+        "ime dogodka": "ogrožanje ljudi in stvari"
+    },
+    {
+        "id": 20202,
+        "ime dogodka": "napad živali na ljudi ali stvari"
+    },
+    {
+        "id": 20301,
+        "ime dogodka": "nesreče pri športnih, rekreativnih in adrenalinskih aktivnostih"
+    },
+    {
+        "id": 20302,
+        "ime dogodka": "nesreče pri ostalih nešportnih aktivnostih (gobarjenje, ...)"
+    },
+    {
+        "id": 20501,
+        "ime dogodka": "delovne nesreče"
+    },
+    {
+        "id": 20502,
+        "ime dogodka": "nesreče v rudnikih in kamnolomih"
+    },
+    {
+        "id": 20503,
+        "ime dogodka": "nesreče pri ostalih aktivnostih (reševanje iz višin, globin...)"
+    },
+    {
+        "id": 20601,
+        "ime dogodka": "reševanje obolelih (tudi helikopterski prevozi med bolnišnicami)"
+    },
+    {
+        "id": 20701,
+        "ime dogodka": "nesreče v jamah in breznih"
+    },
+    {
+        "id": 20702,
+        "ime dogodka": "reševanja in dvigovanja živali iz jam in brezn"
+    },
+    {
+        "id": 20801,
+        "ime dogodka": "nesreče ljudi na in v vodi"
+    },
+    {
+        "id": 20802,
+        "ime dogodka": "nesreče živali na in v vodi"
+    },
+    {
+        "id": 20901,
+        "ime dogodka": "pogrešane osebe"
+    },
+    {
+        "id": 20902,
+        "ime dogodka": "pogrešane živali"
+    },
+    {
+        "id": 30101,
+        "ime dogodka": "prometne nesreče"
+    },
+    {
+        "id": 30201,
+        "ime dogodka": "trčenja vlakov"
+    },
+    {
+        "id": 30202,
+        "ime dogodka": "trčenja vlakov s prometnimi sredstvi cestnega prometa"
+    },
+    {
+        "id": 30203,
+        "ime dogodka": "vlak povozil ljudi"
+    },
+    {
+        "id": 30204,
+        "ime dogodka": "vlak povozil živali"
+    },
+    {
+        "id": 30205,
+        "ime dogodka": "iztirjenja"
+    },
+    {
+        "id": 30401,
+        "ime dogodka": "nesreče zračnih plovil"
+    },
+    {
+        "id": 40101,
+        "ime dogodka": "Stanovanjske stavbe"
+    },
+    {
+        "id": 40102,
+        "ime dogodka": "Nestanovanjske stavbe"
+    },
+    {
+        "id": 40103,
+        "ime dogodka": "Objekti transportne infrastrukture"
+    },
+    {
+        "id": 40104,
+        "ime dogodka": "Cevovodi, komunikacijska omrežja in elektroenergetski vodi"
+    },
+    {
+        "id": 40105,
+        "ime dogodka": "Kompleksni industrijski objekti"
+    },
+    {
+        "id": 40106,
+        "ime dogodka": "Drugi gradbeni inženirski objekti"
+    },
+    {
+        "id": 40201,
+        "ime dogodka": "požari na sredstvih cestnega prometa"
+    },
+    {
+        "id": 40202,
+        "ime dogodka": "požari na delovnih, kmetijskih in gradbenih strojih"
+    },
+    {
+        "id": 40203,
+        "ime dogodka": "požari na sredstvih železniškega prometa"
+    },
+    {
+        "id": 40205,
+        "ime dogodka": "požari na sredstvih vodnega prometa"
+    },
+    {
+        "id": 40301,
+        "ime dogodka": "požari na gozdnih in grmovnih površinah"
+    },
+    {
+        "id": 40302,
+        "ime dogodka": "požari na obdelanih površinah"
+    },
+    {
+        "id": 40303,
+        "ime dogodka": "požari na travniških površinah"
+    },
+    {
+        "id": 40304,
+        "ime dogodka": "požari na smetiščih, odlagališčih"
+    },
+    {
+        "id": 40305,
+        "ime dogodka": "drugi požari v naravi oziroma na prostem"
+    },
+    {
+        "id": 40401,
+        "ime dogodka": "požari v komunalnih in drugih zabojnikih"
+    },
+    {
+        "id": 40501,
+        "ime dogodka": "eksplozije na prostem"
+    },
+    {
+        "id": 40502,
+        "ime dogodka": "eksplozije v objektih"
+    },
+    {
+        "id": 40503,
+        "ime dogodka": "eksplozije prometnih sredstev"
+    },
+    {
+        "id": 50101,
+        "ime dogodka": "sproščanja nevarnih plinov"
+    },
+    {
+        "id": 50102,
+        "ime dogodka": "zastrupitve zaradi plinov in tekočin"
+    },
+    {
+        "id": 50201,
+        "ime dogodka": "nesreče z nevarnimi snovmi v industriji, industrijske nesreče"
+    },
+    {
+        "id": 50202,
+        "ime dogodka": "nesreče z nevarnimi in drugimi snovmi v stanovanjskih in drugih objektih"
+    },
+    {
+        "id": 50203,
+        "ime dogodka": "nesreče z nevarnimi in drugimi snovmi v naravi, prometu"
+    },
+    {
+        "id": 50204,
+        "ime dogodka": "ljudje kot neposredni vzrok onesnaženja"
+    },
+    {
+        "id": 50205,
+        "ime dogodka": "druga onesnaženja okolja in posegi v okolje"
+    },
+    {
+        "id": 50301,
+        "ime dogodka": "prekomerna onesnaženja zraka"
+    },
+    {
+        "id": 70101,
+        "ime dogodka": "minsko-eksplozivna sredstva"
+    },
+    {
+        "id": 70102,
+        "ime dogodka": "strelivo"
+    },
+    {
+        "id": 70103,
+        "ime dogodka": "letalske bombe"
+    },
+    {
+        "id": 70105,
+        "ime dogodka": "rakete"
+    },
+    {
+        "id": 70201,
+        "ime dogodka": "s pitno vodo"
+    },
+    {
+        "id": 70202,
+        "ime dogodka": "z električno energijo"
+    },
+    {
+        "id": 70203,
+        "ime dogodka": "z energetskim in drugimi plini"
+    },
+    {
+        "id": 70204,
+        "ime dogodka": "javnih telekomukacijskih storitev"
+    },
+    {
+        "id": 70301,
+        "ime dogodka": "objekti"
+    },
+    {
+        "id": 70302,
+        "ime dogodka": "transportna infrastruktura"
+    },
+    {
+        "id": 80101,
+        "ime dogodka": "tehnična in druga pomoč"
+    },
+    {
+        "id": 80102,
+        "ime dogodka": "prevoz pitne vode"
+    },
+    {
+        "id": 90101,
+        "ime dogodka": "samo izvoz, intervencija ni bila potrebna"
+    }
+]
