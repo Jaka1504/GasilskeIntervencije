@@ -1,0 +1,44 @@
+id,ime
+10100,Potresi
+10200,Visoko plimovanje morja
+10300,Poplave
+10400,Plazovi
+10500,Visok sneg
+10600,Toča
+10800,Močan veter
+10900,Udari strel
+11000,Žled
+11100,Pozeba
+11200,Suša
+11300,Hud mraz
+11400,Huda vročina
+11500,Prekinitev prometa zaradi naravnih pojavov
+11600,"Epidemije in okužbe ljudi, živali in rastlin"
+20100,Nesreče v gorah
+20200,Ogrožanja ali napad živali na ljudi in stvari
+20300,"Nesreče pri športnih, rekreativnih in drugih aktivnostih"
+20400,"Nesreče na žičnicah, vzpenjačah"
+20500,Delovne in rudniške nesreče
+20600,Reševanja obolelih oseb
+20700,Nesreče v podzemskih jamah in breznih
+20800,Nesreče na vodi in v vodi
+20900,"Pogrešane osebe, živali in stvari"
+30100,Nesreče v cestnem prometu
+30200,Nesreče v železniškem prometu
+30300,Nesreče v pomorskem prometu
+30400,Nesreče v zračnem prometu
+40100,Požari v objektih
+40200,Požari na prometnih sredstvih
+40300,Požari v naravi oziroma na prostem
+40400,Požari v komunalnih in drugih zabojnikih
+40500,Eksplozije
+50100,Sproščanja nevarnih plinov
+50200,Nesreče z nevarnimi snovmi
+50300,Onesnaženja zraka
+60100,Jedrska ali radiološka nevarnost
+60300,"Teroristični napadi, demonstracije, množične migracije, vojne"
+70100,Najdbe neeksplodiranih ubojnih sredstev
+70200,"Nenačrtne motnje, omejitve, prekinitve, oskrbe"
+70300,"Poškodbe, porušitve oziroma samoporušitve objektov"
+80100,Tehnična in druga pomoč
+90100,Nepotrebne oz. lažne intervencije
