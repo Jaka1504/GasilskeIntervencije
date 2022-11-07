@@ -3,18 +3,6 @@ import requests
 import time
 from requests_html import HTMLSession
 
-
-# dict = {
-#     "limit": 20,
-#     "offset": 0,
-#     "coezrId": [10015],
-#     "obcinaMID": [11027849],
-#     "dogodekPodskupinaId": [40100],
-#     "datumOd": "2022-01-01T00:00:00",
-#     "datumDo": "2022-10-19T00:00:00",
-#     "corsBesedilo": None
-# }
-
 podatki_json_path = "podatki_test.json"
 
 coerzId = [
