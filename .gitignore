@@ -130,3 +130,8 @@ dmypy.json
 
 # Prevelika datoteka
 zajeti_podatki/surovi_podatki.json
+zajeti_podatki/json/surovi_podatki.json
+
+# Testne datoteke
+test_csv.csv
+podatki_test.json
